@@ -12,11 +12,11 @@ the highlight of my day
 ---
 __For my coding buddies :)__
 
-- 
 __[bashcrawl](https://gitlab.com/slackermedia/bashcrawl)__ 
 - the coding game we all played on our 
 first day to learn how to program in 
 bash 
+
 __[cheatsheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet)__ 
 - a super friendly cheat sheet of all 
 the bash commnds you should know about
