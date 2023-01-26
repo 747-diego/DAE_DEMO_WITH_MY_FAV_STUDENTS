@@ -1,12 +1,6 @@
 # My Final Project for DAE
-#### Coding with my students and 
-learning from them is what I look 
-forward to in my day.
-#### Mentoring them about their future 
-and whats to come in their coding 
-journey, as well as laughing and 
-playing coding games or uno, is always 
-the highlight of my day
+#### Coding with my students and learning from them is what I look forward to in my day.
+#### Mentoring them about their future and whats to come in their coding journey, as well as laughing and playing coding games or uno, is always the highlight of my day
 
 
 ---
